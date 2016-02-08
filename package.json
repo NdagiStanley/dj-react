@@ -1,0 +1,22 @@
+{
+  "name": "dj-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NdagiStanley/dj-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NdagiStanley/dj-react/issues"
+  },
+  "homepage": "https://github.com/NdagiStanley/dj-react#readme",
+  "devDependencies": {
+    "babelify": "^7.2.0"
+  }
+}
