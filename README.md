@@ -6,3 +6,6 @@ Hopefully combining these two powers:
 - React JS library (killing it in the front-end)
 - Django framework (Powerful tool set)
 will add to my super-human feat collection as an upcoming Ninja
+
+
+Stan_MD
