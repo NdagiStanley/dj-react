@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "homepage": "https://github.com/NdagiStanley/dj-react",
+  "authors": [
+    "ndagistanley <stanley.ndagi@andela.com>"
+  ],
+  "dependencies": {
+    "react": "~0.14.7",
+    "jquery": "~2.2.0"
+  },
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "reactjs",
+    "tests"
+  ]
+}
