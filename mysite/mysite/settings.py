@@ -156,7 +156,7 @@ PIPELINE_JS_COMPRESSOR = 'pipeline.compressors.uglifyjs.UglifyJSCompressor'
 if DEBUG:
     PIPELINE_BROWSERIFY_ARGUMENTS = '-t babelify'
 
-PIPELINE_CSS = {
+PIPELINE = {
     'mysite_css': {
         'source_filenames': (
             'css/style.css',
@@ -165,7 +165,7 @@ PIPELINE_CSS = {
     },
 }
 
-PIPELINE_JS = {
+PIPELINE = {
     'mysite_js': {
         'source_filenames': (
             'js/bower_components/jquery/dist/jquery.min.js',
