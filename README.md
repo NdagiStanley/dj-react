@@ -1,5 +1,5 @@
 # dj-react
-####This small project is to get me up to speed with Django and React
+#### This small project is to get me up to speed with Django and React
 
 
 Hopefully combining these two powers:
@@ -8,4 +8,4 @@ Hopefully combining these two powers:
 will add to my super-human feat collection as an upcoming Ninja
 
 
-Stan_MD
+###### [Stanley Ndagi](https://stanmd.tk)
